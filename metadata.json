@@ -1,0 +1,6 @@
+{
+  "name": "Kode Kriminal",
+  "description": "Aplikasi referensi dan pencarian cepat Kode Kriminal lengkap dengan 21 Bab, pasal pelanggaran hukum, tingkat pencarian, denda, catatan khusus, dan kalkulator tilang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
